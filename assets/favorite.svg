@@ -1,0 +1,22 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="30" height="30" fill="#F5F5F5"/>
+<g id="Frame 1">
+<rect width="1440" height="1140" transform="translate(-350 -538)" fill="white"/>
+<g id="Group 11">
+<g id="Group 7">
+<g id="Rectangle 1">
+<rect x="-248" y="-348" width="300" height="400" rx="6" fill="white"/>
+<rect x="-247.5" y="-347.5" width="299" height="399" rx="5.5" stroke="#323232" stroke-opacity="0.196078"/>
+</g>
+<g id="Group 5">
+<g id="Group 3">
+<path id="Rectangle 4" d="M39 -9V34C39 36.7614 36.7614 39 34 39H-9V-9H39Z" fill="white" stroke="#007BFF" stroke-width="2"/>
+<g id="Favorite">
+<path id="Vector 15" d="M5.56335 17.3853L14.3153 25.6068C14.6398 25.9116 14.802 26.064 15 26.064C15.198 26.064 15.3602 25.9116 15.6847 25.6068L15.6847 25.6068L24.4367 17.3853C26.8819 15.0882 27.1788 11.3082 25.1223 8.65758L24.7356 8.15918C22.2753 4.98822 17.337 5.52002 15.6083 9.14206C15.3641 9.6537 14.6359 9.6537 14.3917 9.14206C12.663 5.52002 7.72465 4.98823 5.26443 8.15918L4.87773 8.65759C2.82118 11.3083 3.11813 15.0882 5.56335 17.3853Z" stroke="#007BFF" stroke-width="2"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
